@@ -1,5 +1,10 @@
 def max_value(numbers):
-    return max(numbers)
+
+    """ This function returns the largest number
+        in the list.
+    """
+    sophs_max = max(numbers)
+    return sophs_max
 
 
 if __name__ == "__main__":
